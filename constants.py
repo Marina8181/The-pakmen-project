@@ -1,4 +1,5 @@
 import paths
+version = "by Marina and Diana"
 
 DISPLAY_SIZE = [1000, 700]
 DISPLAY_NAME = "Приключения Шрека"

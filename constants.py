@@ -1,5 +1,4 @@
 import paths
-version = "v1.02"
 
 DISPLAY_SIZE = [1000, 700]
 DISPLAY_NAME = "Приключения Шрека"

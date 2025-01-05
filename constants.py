@@ -25,5 +25,5 @@ FONTS = {"main": paths.fontPath + "SourceSansPro-Light.ttf",
               "small": 12},
          "colour": COLOURS["white"]}
 
-WALL_FORMATS = ["t", "b", "l", "r", "p", "s"]
-# t/b/l/r = выходы, p = точка spawn, s = безопасная точка
+WALL_FORMATS = ["1","0","t", "b", "l", "r", "p", "s"]
+#  "1" = стена, "0" = путь, t/b/l/r = выходы, p = точка spawn, s = безопасная точка
